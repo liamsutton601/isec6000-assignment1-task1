@@ -1,6 +1,6 @@
 # isec6000-assignment1-task1
 
-**Creating the Kubernetes Cluster On GKE:**
+## **Creating the Kubernetes Cluster On GKE:**
 
 Listed below are the steps for hte creation of the Kubernetes Cluster on GKE that were followed. 
 
@@ -40,7 +40,7 @@ The cluster defauly Pod address range was configured to be /17, with all other s
 10. The green tick to the left of the cluster indicates that it is activated and working.
 ![Step 10](https://github.com/liamsutton601/isec6000-assignment1-task1/assets/130027096/59029bbe-36cc-4b24-86e3-b9b903c0b182)
 
-**Install and Configure Kubectl To Manage Kubernetes Cluster**
+## **Install and Configure Kubectl To Manage Kubernetes Cluster**
 
 Below is listed the steps to install and configure Kubectl to manage Kubernetes Cluster:
 
